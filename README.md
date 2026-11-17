@@ -1,37 +1,37 @@
 
 # Hi, I'm Abdelrhaman Amr 👋
 
-### Computer Science Student | Aspiring Software Developer
+### Media Student at AAST | Aspiring Developer
 
-I'm a university student passionate about programming, software development, and technology. I enjoy learning new technologies, building projects, and turning ideas into practical solutions.
+I'm a Media student at the Arab Academy for Science, Technology and Maritime Transport (AAST), with a strong interest in technology, programming, and software development.
 
-I'm continuously developing my technical skills through hands-on projects, independent learning, and experimentation.
+Alongside my academic studies, I've been developing my programming skills and exploring different technologies. I enjoy learning, experimenting with new ideas, and building practical projects.
 
 ### 💻 Technical Skills
 
-- **Programming Languages:** C#, Python, Lua
-- **Interests:** Software Development, Problem Solving, Automation, and Technology
-- **Currently:** Expanding my programming knowledge and working on practical projects.
+- **C#**
+- **Python**
+- **Lua**
 
-### 🚀 Projects
+### 🚀 Projects & Development
 
-Check out my repositories to explore my coding projects and experiments:
+I enjoy working on personal programming projects and continuously improving my technical abilities.
 
-🔗 [GitHub Repositories](https://github.com/0xabdelrhaman?tab=repositories)
+Explore my work:
+[GitHub Repositories](https://github.com/0xabdelrhaman?tab=repositories)
 
-### 🎯 What I'm Looking For
+### 🎯 Goals
 
-I'm interested in opportunities where I can:
+- Gain practical professional experience.
+- Work on real-world projects.
+- Collaborate with different teams.
+- Continue developing my programming and problem-solving skills.
+- Combine creativity, technology, and innovation.
 
-- Apply my programming knowledge to real-world projects.
-- Collaborate with experienced developers and teams.
-- Learn new technologies and improve my technical abilities.
-- Contribute, take responsibility, and grow professionally.
-
-### 📫 Contact
+### 📫 Find Me
 
 - **GitHub:** [@0xabdelrhaman](https://github.com/0xabdelrhaman)
 
 ---
 
-*Always learning. Always building. Always improving.*
+*Curious by nature. Always learning. Always building.*
